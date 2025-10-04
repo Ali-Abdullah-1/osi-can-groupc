@@ -1,7 +1,7 @@
 # ENSE 271 Group Project Fall 2025 (OSI-CAN) Repository
 
 This is a repository that contains all our files used in creating ideas, planning, and working out, for our ENSE 271 group project (OSI-CAN).
-The aim of this project is to help to arrange the website properly, make it more understandable, less clustered, and easily accessible towards the information.
+The aim of this project is to help to organize the website properly, to make it more understandable and less clustered, and also make it easily accessible towards the informative stuff available on the website.
 
 The team members for Group Project Fall 2025 (OSI-CAN - Group C) are:
 
