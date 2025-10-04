@@ -1,4 +1,4 @@
-These are summarized notes from the check-ins/meetings with the clients (OSI-CAN)
+These are summarized notes from the check-ins/meetings with the clients (OSI-CAN) which will be updated timely and posted in the next activities for the group project.
 
 --------------------------------------------------
 
@@ -14,11 +14,12 @@ Our team met Brooklyn Coulson (Digital Impact Officer, Saskatchewan Community Fo
 
 01st Oct, 2025:
 
-Our team met the clients once again with a low-fidelity 
-But Julius loved the idea of annonymous donations and he was surprised that users could not donate without realeasing information
+Our team met the clients once again, after observing, framing, and brainstorming (low-fidelity) for the project. There was not much discussion between both sides as this meetup was majorly based on our team presenting it's work done so far. At the end, the team got some reviews from the clients which concluded the meeting as:
 
-Also brooklyn a memeber in the meeting give a suggestion on  removing one of our low fidelity protoype due to the absense of program on the navigation bar.
+1) Julius was asurprised to know that some people are willing to donate, but are also hesitant, as they want to donate without providing personal information.
+2) An opinion to introduce anonymous donations was happily approved by the clients
+3) Brooklyn suggested to not use navigation map 03, as it was hiding the program page access from the home page
+4) All low-fidelity prototypes were liked by the clients, as each prototype had something beneficial for the website's improvement
 
-This was all information gotten from the second meeting
-
+--------------------------------------------------
 
