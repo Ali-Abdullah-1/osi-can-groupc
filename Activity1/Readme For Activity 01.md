@@ -1,20 +1,13 @@
-# Activity 1 Readme.md
-This is sub repository containing the project insights and designs used for the initial project planning and meeting with the customers which is (OSCI-CAN)
+# ENSE 271 Group Project Activity 01 Sub-Repository
 
-This is a group of different files and documents used in achieveing the first acticity of building the project
+This is a sub-repository containing the project insights and designs used for the initial project planning and meeting with the customers (OSI-CAN).
+There are different files and documents that were used in achieveing the first activity while building the project. The files present in this sub-repository are listed below as:
 
-The files present in this sub repositories listed below are:
-
-.  A document outlinig the team members of the group, the summarized project background, Northstar customers, carryover customers and other project detials such as assumptions and constraints
-
-.  The sub repository also includes a groupig of  empaathy mapping samples and alspo the final empathy map sample
-
-.  An affinity diagram used to organise and for brainstorming
-
-. A folder containing our site map samples for navigation which were shown to the client also has insites in a md file.
-
-. A folder containing low fedelity prototypes created by the group memebers in other to get an idea of what the clients might prefer or want
-
-. A folder containing  user story maps created using stories on board both the pdf and png format
-
-
+- A document outlining the team members of the group, the summarized project background, Northstar customers, carryover customers, and other project details, such as assumptions and constraints.
+- An affinity diagram used to organize ideas while brainstorming
+- Summarized customer notes from the client meetings so far
+- Insights document
+- A folder of empathy mapping samples and the final empathy map
+- A folder containing site maps for navigation through website
+- A folder containing low fedelity prototypes created by the group memebers in other to get an idea of what the clients might prefer or want
+- A folder containing  user story map created using Stories On Board, in pdf and png formats.
