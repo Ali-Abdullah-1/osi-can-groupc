@@ -1,23 +1,20 @@
-These are summarized notes from the check-in meetups with the clients (OSI-CAN)
+These are summarized notes from the check-ins/meetings with the clients (OSI-CAN)
+
+--------------------------------------------------
 
 24th Sep, 2025:
 
-The team met Brooklyn Coulson (Digital Impact Officer, Saskatchewan Community Foundation), and Julius Brown (Executive Director, OSI-CAN Saskatchewan) for the first time and got familair with the operations, what they want and what they are trying to achieve.
+Our team met Brooklyn Coulson (Digital Impact Officer, Saskatchewan Community Foundation), and Julius Brown (Executive Director, OSI-CAN Saskatchewan) for the first time and got familair with the operations, the need for charities, and the website improvements for OSI-CAN. The requests by clients were put forward and the meeting was concluded with the following points:
 
-The major points gotten which are listed below:
+1) The website should be more user friendly, but should not lack its professionalism
+2) The website needs to be organized and managed, as there is ton of material provided over there
+3) The website should help people realize that they are at the right place and will be helped in their recovery
 
-1.) The website needed to be more user friendly
+--------------------------------------------------
 
-2.) It needs to be less congested and more organized
+01st Oct, 2025:
 
-3.) It needs to target the major demographic
-
-This was all information gotten from the first meeting
-
-In the next meeting which was on the 01-10-2025
-
-The were not much said by the user because what we mosty showed were low fidelity prototypes for the website
-
+Our team met the clients once again with a low-fidelity 
 But Julius loved the idea of annonymous donations and he was surprised that users could not donate without realeasing information
 
 Also brooklyn a memeber in the meeting give a suggestion on  removing one of our low fidelity protoype due to the absense of program on the navigation bar.
