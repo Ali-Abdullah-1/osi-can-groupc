@@ -1,8 +1,8 @@
-This are summarized dates and notes from the check-ins we had with the clients(customer)
+These are summarized notes from the check-in meetups with the clients (OSI-CAN)
 
-On the 24-09-2025
+24th Sep, 2025:
 
-We met Juliius a representative of OSCI-CAN for the first time and got to understand a little of what they want and what they are trying to achieve.
+The team met Brooklyn Coulson (Digital Impact Officer, Saskatchewan Community Foundation), and Julius Brown (Executive Director, OSI-CAN Saskatchewan) for the first time and got familair with the operations, what they want and what they are trying to achieve.
 
 The major points gotten which are listed below:
 
